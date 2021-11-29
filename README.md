@@ -36,3 +36,13 @@ APSSDC Git and GitHub Workshop
  3|Teja
  4|Lalitha
  5|Deepthi
+
+> Text that is a quote
+
+~~This was mistaken text~~
+
+:relaxed: :woozy_face:
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
